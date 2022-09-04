@@ -7,7 +7,7 @@
 
 ### Room 2 Spike Super
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/4cr2spikesuperwebp.webp)
 
 ![image](https://cdn.discordapp.com/attachments/785077819771453461/1015978085088235560/4c2.png)
 
