@@ -27,4 +27,4 @@ The downright afterwards is slightly more lenient, but still fairly tight. You w
 
 For the jump in the next room, you want to make sure you are still holding down to crouch, and go for as much coyote as you can on the jump here. The length of the jump has to be fairly short to avoid hitting the spiked pillar in the middle of the room, but if you tap as quickly as possible you may not make it to the end, so be wary of that.
 
-If all this is done correctly, you should be able to right dash to the final zipper block in room 2, effectively skipping all of it. Occasionally if your jump tap is too short you may have to upright, which still works but loses around 0.1-0.2 
+If all this is done correctly, you should be able to right dash to the final zipper block in room 2, effectively skipping all of it. Occasionally if your jump tap is too short you may have to upright, which still works but loses around 0.1-0.2.
