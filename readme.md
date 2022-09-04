@@ -3,12 +3,12 @@
 ## Contents
 - [Introduction](#introduction)
 - [Forsaken City](https://github.com/Vapo41/C-Side-Guide/blob/main/City-C.md)
-- [Old Site]
-- [Celestial Resort]
-- [Golden Ridge]
+- [Old Site](https://github.com/Vapo41/C-Side-Guide/blob/main/Site-C.md)
+- [Celestial Resort](https://github.com/Vapo41/C-Side-Guide/blob/main/Resort-C.md)
+- [Golden Ridge](https://github.com/Vapo41/C-Side-Guide/blob/main/Ridge-C.md)
 - [Mirror Temple]
-- [Reflection]
-- [The Summit]
+- [Reflection](https://github.com/Vapo41/C-Side-Guide/blob/main/Reflection-C.md)
+- [The Summit](https://github.com/Vapo41/C-Side-Guide/blob/main/The%20Summit.md)
 - [Core]
 - [Credits](#credits)
 
