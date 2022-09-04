@@ -7,7 +7,7 @@
 
 ### Room 3 Multiboost
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/3cmultiboostwebp.webp)
 
 To do the multiboost here, you must neutral jump off the block, then on the **next frame** input a left climbjump. To do so, I would highly recommend binding a left climbjump button, as doing this manually is incredibly difficult. Note that you can hold the first jump input to make this easier to input. After performing the multiboost, you need to switch to holding right fairly quickly, to ensure you actually get the speed from it in the direction you want.
 \
