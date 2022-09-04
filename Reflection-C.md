@@ -10,9 +10,9 @@
 
 ### Room 1 Demo
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6cr1demowebp.webp)
 
-The main setup here is holding fastfall+jump out of the hyper, which gives you a consistent 1 frame window to demo through the spinners. I would recommend extending the hyper as much as possible, both to get a better window on the demo and a better bumper cycle afterwards. The timesave on this demo can vary due to how awkward this room is to optimise, but in general I would recommend looking into it if you plan on pushing for a 33/34 6C roughly. 
+The main setup here is holding fastfall+jump out of the hyper, which gives you a consistent 1 frame window to demo through the spinners. I would recommend extending the hyper as much as possible, both to ensure you get a frame for the demo and a better bumper cycle afterwards. The timesave on this demo can vary due to how awkward this room is to optimise, but in general I would recommend looking into it if you plan on pushing for a 33/34 6C roughly. 
 \
 \
 ![gif](gif link)
@@ -23,7 +23,7 @@ Note that if you play this room on entry cycle, jumping on the last possible fra
 
 ### Feather Demo
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6cfeatherdemowebp.webp)
 
 To "set this up", do a transition hyper, jump rather late, and then hold fastfall+jump. This gives you a 2 frame window to right dash and hold downleft into the feather to get the correct height. The 2 frames for this are roughly the 2nd last and 3rd last frame before you'd hit the spinners and die.
 \
@@ -47,7 +47,7 @@ The second walljump skip mainly just comes down to greeding your feather movemen
 
 ### Room 3 Kevin Ultra
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6ckevinultrawebp.webp)
 
 This strat has a lot to it, so let's try and break it down. First, the movement to bring the kevin up: the version in this gif what I would recommend, however some people prefer an alternative (and slightly faster) setup which you can find [here](https://youtu.be/uW_ABhRCNXw?t=20). 
 
@@ -58,7 +58,7 @@ The next thing worth noting is the height of the kevin. This is the rough cue I 
 \
 From here, wait until the kevin collides with the wall, and input an instant hyper -> ultra. 
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6cr3bottomwebp.webp)
 
 The final part is dealing with this bumper at the end, for which you have a few options. The main one I would recommend is going under the bumper: if you manage your jump height well this gives you a few frames to updash and drift left into the bumper (and even a frame where you can updash directly into the bumper and save a few tenths, though this is very risky and right at the end of a brutal level). 
 
