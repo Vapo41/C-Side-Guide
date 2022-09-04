@@ -7,7 +7,7 @@
 
 ### Room 2 Demo
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/5cr2demowebp.webp)
 
 ![image](https://cdn.discordapp.com/attachments/785077819771453461/1015978906102284428/5c2.png)
 
