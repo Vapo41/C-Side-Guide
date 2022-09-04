@@ -33,7 +33,7 @@ Note that even with the correct y-value for the demo, you are not always guarant
 
 ### Room 2 Walljump Skips
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6cwjswebp.webp)
 
 After the feather demo, there are 2 fairly precise walljump skips you can do. The timesave and difficulty can vary a lot depending on your input methods, how many you do (doing the first walljump skip can make the second one much harder), and how well you can optimise the normal feather movement, so I'd recommend timing them for yourself and seeing how many you can put up with. 
 
@@ -62,6 +62,6 @@ From here, wait until the kevin collides with the wall, and input an instant hyp
 
 The final part is dealing with this bumper at the end, for which you have a few options. The main one I would recommend is going under the bumper: if you manage your jump height well this gives you a few frames to updash and drift left into the bumper (and even a frame where you can updash directly into the bumper and save a few tenths, though this is very risky and right at the end of a brutal level). 
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/6cbumperaltswebp.webp)
 
 This gif highlights two alternative options for dealing with the bumper, which some people may find easier. All of these are a fairly similar speed, so try everything and see what you prefer.
