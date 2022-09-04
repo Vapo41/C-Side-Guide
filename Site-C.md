@@ -3,6 +3,7 @@
 ### Contents
 - [Room 2 Ultra](#Room-2-Ultra)
 - [Room 3 Upright](#Room-3-Upright)
+- [Coin Skip](#Coin-Skip)
 
 - - - -
 
