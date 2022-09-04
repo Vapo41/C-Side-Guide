@@ -19,7 +19,7 @@ When exiting room 1, try to be as low as possible when you dash into the dreambl
 
 ### Room 3 Upright
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/2cr3uprightwebp.webp)
 
 The main things to keep in mind here are dash high into the dreamblock prior, then exit by doing a dream doublejump in which both jumps are very close together. From there, hold the jump, and you should have a 1(?) frame window to upright -> buffer a dreamjump through this block. This is fairly tight for 0.1, but probably worth looking into if you plan on pushing further into the 20.xxx range.
 
