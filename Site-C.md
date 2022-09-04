@@ -12,7 +12,8 @@
 ![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/2cr2ultrawebp.webp)
 
 This strat is fairly tight, but saves around 0.2 and is very early in the run, so it can be worth implementing especially if you plan on going for low 21/20.xxx times. 
-/
+\
+\
 When exiting room 1, try to be as low as possible when you dash into the dreamblock, and do a **single** dream jump out of it. Hold this jump until you reach the transition. When you enter room 2, buffer a downright, hold the down to ensure you stay crouched, and jump very late to get an ultra over the spring. From there, the movement to collect the coins is a bit tight, but fairly self explanatory: just make sure to drift left after the upleft through the dreamjump rather than jumping/doublejumping.
 
 - - - -
