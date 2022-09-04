@@ -1,5 +1,5 @@
 # Celeste C-Side Guide
-![header](https://cdn.discordapp.com/attachments/785077819771453461/1015949115709980693/csides.png)
+![header](https://cdn.discordapp.com/attachments/785077819771453461/1015951976430845982/csides.png)
 ## Contents
 - [Introduction](#introduction)
 - [Forsaken City]
@@ -15,7 +15,9 @@
 ## Introduction
 This guide will be covering some of the more advanced strategies primarily used in C-Side individual level speedruns. As the goal is mainly top level IL strats, this assumes you already know the key speedtech and mechanics. If you would like elaboration on these mechanics, I would recommend joining the [Celeste discord](https://discord.com/invite/celeste) and checking the pins in #speedrun-help, as there are a lot of useful resources there.
 \
-Note that this is not a full route guide for speedrunning c-sides, just a guide on a few of the important strats. Also note most of these strats will not be viable for fullgame or even All C-Sides runs: your best bet for those currently is watching a few runs on the boards, and labbing a bit yourself to see what the best balance of strats for you is. This is mainly just 
+\
+Note that this is not a full route guide for speedrunning c-sides, just a guide on a few of the important strats. Also note most of these strats will not be viable for fullgame or even All C-Sides runs: your best bet for those currently is watching a few runs on the boards, and labbing a bit yourself to see what the best balance of strats for you is.
+\
 \
 If you would like further elaboration on one of these strats or think something else should be added, feel free to DM me on Discord (Vapo#0148) and I can try to help.
 
