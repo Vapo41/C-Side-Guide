@@ -9,7 +9,7 @@
 
 ### Room 2 Ultra
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/2cr2ultrawebp.webp)
 
 This strat is fairly tight, but saves around 0.2 and is very early in the run, so it can be worth implementing especially if you plan on going for low 21/20.xxx times. 
 /
