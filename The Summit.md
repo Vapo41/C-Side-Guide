@@ -29,7 +29,7 @@ This one is fairly self explanatory, but felt worth documenting as it saves arou
 
 Note that this setup isn't always guaranteed to give you a frame if you hit the spring too high, but you generally get one most of the time. If you would like to pause buffer this fullgame (finish this later)
 
-### Room 3 Demo
+### Room 3 Demo 1
 
 ![gif](gif link)
 
