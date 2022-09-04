@@ -1,6 +1,9 @@
-# Forsaken City
+## Forsaken City
 
-- [Room 2 Boost](#Room 2 Boost)
+### Contents
+- [Room 2 Boost](#Room-2-Boost)
+
+- - - -
 
 ### Room 2 Boost
 
