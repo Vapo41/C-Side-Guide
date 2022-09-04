@@ -7,7 +7,7 @@
 
 ### Room 2 Boost
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/1cr2boostwebp.webp)
 
 This is a fairly complicated strat with a lot of tight inputs, and will take a fair bit of practice to get to the point of being even IL viable, but saves around 2 seconds when done correctly, making it very significant if you plan on pushing for a top 1C time. To try and break it down:
 
