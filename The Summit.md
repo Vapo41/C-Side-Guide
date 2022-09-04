@@ -23,7 +23,7 @@ From which you have 1 frame to input jump, and get a reverse demohyper. From the
 
 ![gif](gif link)
 
-This one is fairly self explanatory, but felt worth documenting as it saves a few seconds, making it potentially viable fullgame with pause buffering. The main thing to keep in mind for doing this demo unpaused is do a regular (non-demo) upright into the spring, then demo roughly around here.
+This one is fairly self explanatory, but felt worth documenting as it saves around 2 seconds, making it potentially viable fullgame with pause buffering. The main thing to keep in mind for doing this demo unpaused is do a regular (non-demo) upright into the spring, then demo roughly around here.
 
 ![image](https://cdn.discordapp.com/attachments/785077819771453461/1015983873315840090/7cr2demo.png)
 
