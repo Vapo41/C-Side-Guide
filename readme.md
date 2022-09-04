@@ -2,7 +2,7 @@
 ![header](https://cdn.discordapp.com/attachments/785077819771453461/1015951976430845982/csides.png)
 ## Contents
 - [Introduction](#introduction)
-- [Forsaken City]
+- [Forsaken City](https://github.com/Vapo41/C-Side-Guide/blob/main/City-C.md)
 - [Old Site]
 - [Celestial Resort]
 - [Golden Ridge]
