@@ -6,7 +6,7 @@
 - [Old Site](https://github.com/Vapo41/C-Side-Guide/blob/main/Site-C.md)
 - [Celestial Resort](https://github.com/Vapo41/C-Side-Guide/blob/main/Resort-C.md)
 - [Golden Ridge](https://github.com/Vapo41/C-Side-Guide/blob/main/Ridge-C.md)
-- [Mirror Temple]((https://github.com/Vapo41/C-Side-Guide/blob/main/Temple-C.md)
+- [Mirror Temple](https://github.com/Vapo41/C-Side-Guide/blob/main/Temple-C.md)
 - [Reflection](https://github.com/Vapo41/C-Side-Guide/blob/main/Reflection-C.md)
 - [The Summit](https://github.com/Vapo41/C-Side-Guide/blob/main/Summit-C.md)
 - [Core]
