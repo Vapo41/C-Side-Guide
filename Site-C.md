@@ -31,3 +31,5 @@ The main things to keep in mind here are dash high into the dreamblock prior, th
 ![gif](gif link)
 
 oh no
+
+#### [Back to Main Page](https://github.com/Vapo41/C-Side-Guide)
