@@ -9,7 +9,7 @@
 
 ### Room 1 Orbskip
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/7corbskipwebp.webp)
 
 There are several ways you can get this, but the main things to focus on to maximise consistency are:
 
@@ -21,7 +21,7 @@ From which you have 1 frame to input jump, and get a reverse demohyper. From the
 
 ### Room 2 Demo
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/7cr2demowebp.webp)
 
 This one is fairly self explanatory, but felt worth documenting as it saves around 2 seconds, making it potentially viable fullgame with pause buffering. The main thing to keep in mind for doing this demo unpaused is do a regular (non-demo) upright into the spring, then demo roughly around here.
 
@@ -31,7 +31,7 @@ Note that this setup isn't always guaranteed to give you a frame if you hit the 
 
 ### Room 3 Demo 1
 
-![gif](gif link)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/7cr3demowebp.webp)
 
 The demo shown above is the most lenient version if you just want to do one demo here. The main thing it comes down to is hitting the spring fairly high up, from which you should have a few frames to input the demo. Due to the variance of the spring hit it's hard to give a precise cue beyond just "when it looks like Madeline is at the right height", but as far as demos go this is one of the more manageable ones to get a feel for.
 
