@@ -16,3 +16,5 @@ For practicing this trick, I would highly recommend downloading the [Input Histo
 \
 \
 With the input display mod above, I would recommend practicing the inputs in isolation first, and trying a few different options to see what lets you perform it the most consistently. Personally, even as a controller player, I found it much easier to get frame consecutive inputs on keyboard than with two controller buttons next to each other. This may be different for some people depending on your hardware and personal preferences, so see what works best for you. 
+
+#### [Back to Main Page](https://github.com/Vapo41/C-Side-Guide)
