@@ -35,7 +35,7 @@ Note that this setup isn't always guaranteed to give you a frame if you hit the 
 
 The demo shown above is the most lenient version if you just want to do one demo here. The main thing it comes down to is hitting the spring fairly high up, from which you should have a few frames to input the demo. Due to the variance of the spring hit it's hard to give a precise cue beyond just "when it looks like Madeline is at the right height", but as far as demos go this is one of the more manageable ones to get a feel for.
 
-![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/7cr3demowebp.webp)
+![gif](https://github.com/Vapo41/C-Side-Guide/blob/main/images/7cfirstdoubledemo.webp)
 
 This version is notably harder, but quite a bit faster overall. The first dmeo is set up by holding fastfall+jump from the wavedash beforehand, which gives you a consistent 1 frame window for the demo. From there, if you quickly do an upright into the spring, you have a 1 frame window to perform the second demo. (citation needed)
 
